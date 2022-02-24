@@ -2,7 +2,7 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/xanderbylo/recipes) 
 
-This is a fully responsive design built following the [DesignCourse](https://designcourse.com)YouTube tutorial [Learn HTML & CSS in 2022 | Crash Course](https://www.youtube.com/watch?v=gXLjWRteuWI).
+This is a fully responsive design built following the [DesignCourse](https://designcourse.com) YouTube tutorial [Learn HTML & CSS in 2022 | Crash Course](https://www.youtube.com/watch?v=gXLjWRteuWI).
 
 ## :computer: Live link
 
