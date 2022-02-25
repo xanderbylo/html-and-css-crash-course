@@ -27,4 +27,6 @@ This is a fully responsive design built following the [DesignCourse](https://des
 
 * shoe-1.jpg by [Revolt](https://unsplash.com/@revolt) on [Unsplash](https://unsplash.com)
 * shoe-2.jpg by [Usama Akram](https://unsplash.com/@usama_1248) on [Unsplash](https://unsplash.com)
+* shoe-3.jpg by [Usama Akram](https://unsplash.com/@usama_1248) on [Unsplash](https://unsplash.com)
+* shoe-4.jpg by [Usama Akram](https://unsplash.com/@usama_1248) on [Unsplash](https://unsplash.com)
 
