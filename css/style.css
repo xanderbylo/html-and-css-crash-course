@@ -41,7 +41,33 @@ header {
 
 header svg {
   width: 3em;
-  margin-top: -.6m;
+  margin-top: -.6em;
   cursor: pointer;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-top: 2em;
+  line-height: 3.3rem;
+}
+
+.subheading {
+  font-size: 1.4rem;
+}
+
+section.hero {
+  color: white;
+  height: 90vh;
+}
+
+section.hero .down-arrow {
+  stroke: white;
+  position: absolute;
+  bottom: 2em;
+  width: 1em;
+}
+
+section.hero .down-arrow path {
+  fill: white;
 }
 /*# sourceMappingURL=style.css.map */
