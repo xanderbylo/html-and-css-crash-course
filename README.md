@@ -21,7 +21,9 @@ This is a fully responsive design built following the [DesignCourse](https://des
 
 ## :bulb: Things I learnt
 
-* How to build a website using HTML, CSS and JavaScript
+* How to create a mobile nav menu
+* How to use media queries to make a responsive website
+* How to animate images using JavaScript on load
 
 ## :page_facing_up: Credits
 
@@ -29,4 +31,3 @@ This is a fully responsive design built following the [DesignCourse](https://des
 * shoe-2.jpg by [Usama Akram](https://unsplash.com/@usama_1248) on [Unsplash](https://unsplash.com)
 * shoe-3.jpg by [Usama Akram](https://unsplash.com/@usama_1248) on [Unsplash](https://unsplash.com)
 * shoe-4.jpg by [Usama Akram](https://unsplash.com/@usama_1248) on [Unsplash](https://unsplash.com)
-
